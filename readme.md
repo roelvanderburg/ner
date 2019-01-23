@@ -46,5 +46,5 @@ Below, the results presented for the SVM classifier predicting on the hold out s
 
 Confusion matrix             |  Normalized confusion matrix
 :-------------------------:|:-------------------------:
-<img src="https://devtools.belastingdienst.nl/bitbucket/projects/COOP/repos/ner-tag-roel/raw/classifying/images/confusion_matrix.png?at=refs%2Fheads%2Fmaster" alt="Confusion Matrix" width="420" height="310">  |  <img src="https://devtools.belastingdienst.nl/bitbucket/projects/COOP/repos/ner-tag-roel/raw/classifying/images/confusion_matrix_normalized.png?at=refs%2Fheads%2Fmaster" alt="Confusion Matrix" width="420" height="310">
+<img src="https://github.com/roelvanderburg/ner/blob/master/classifying/images/confusion_matrix.png" alt="Confusion Matrix" width="420" height="310">  |  <img src="https://github.com/roelvanderburg/ner/blob/master/classifying/images/confusion_matrix_normalized.png" alt="Confusion Matrix" width="420" height="310">
 
