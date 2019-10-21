@@ -55,7 +55,7 @@ if __name__ == "__main__":
                             'msgpack-numpy==0.4.3.2',
                             'murmurhash==0.28.0',
                             'nl-core-news-sm==2.0.0',
-                            'nltk==3.3',
+                            'nltk==3.4.5',
                             'numpy==1.15.1',
                             'pandas==0.23.4',
                             'plac==0.9.6',
