@@ -75,6 +75,6 @@ if __name__ == "__main__":
                             'toolz==0.9.0',
                             'tqdm==4.26.0',
                             'ujson==1.35',
-                            'urllib3==1.23',
+                            'urllib3==1.26.5',
                             'wcwidth==0.1.7',
                             'wrapt==1.10.11'])
