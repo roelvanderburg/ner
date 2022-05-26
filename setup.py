@@ -74,7 +74,7 @@ if __name__ == "__main__":
                             'thinc==6.10.3',
                             'toolz==0.9.0',
                             'tqdm==4.26.0',
-                            'ujson==1.35',
+                            'ujson==5.2.0',
                             'urllib3==1.23',
                             'wcwidth==0.1.7',
                             'wrapt==1.10.11'])
