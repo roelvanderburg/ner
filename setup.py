@@ -56,7 +56,7 @@ if __name__ == "__main__":
                             'murmurhash==0.28.0',
                             'nl-core-news-sm==2.0.0',
                             'nltk==3.3',
-                            'numpy==1.15.1',
+                            'numpy==1.22.0',
                             'pandas==0.23.4',
                             'plac==0.9.6',
                             'preshed==1.0.1',
