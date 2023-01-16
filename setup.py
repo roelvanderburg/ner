@@ -40,7 +40,7 @@ if __name__ == "__main__":
         url = URL,
         include_package_data = True,
         python_requires = '>=3',
-        install_requires = ['certifi==2018.8.24',
+        install_requires = ['certifi==2022.12.7',
                             'chardet==3.0.4',
                             'cycler==0.10.0',
                             'cymem==1.31.2',
